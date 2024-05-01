@@ -1,0 +1,1 @@
+document.querySelector('#primary_heading').classList.add('heading');

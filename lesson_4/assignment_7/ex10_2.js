@@ -1,0 +1,1 @@
+$('a[href^="#"]').addClass('highlight');

@@ -1,0 +1,1 @@
+$('[class*="block"]').addClass('highlight');

@@ -1,0 +1,1 @@
+[...document.querySelectorAll('h2')].map(heading => heading.textContent.split(' ').length);

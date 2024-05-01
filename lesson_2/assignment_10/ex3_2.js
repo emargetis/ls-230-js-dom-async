@@ -1,0 +1,6 @@
+/*
+click event handler on the DIV element on the capture phase with a value of div
+keypress event handler on the document on the capture phase with a value of q
+keypress event handler on the document on the capture phase with a value of w
+click event handler on the DIV element on the capture phase with a value of main
+*/

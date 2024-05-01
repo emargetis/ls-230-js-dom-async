@@ -1,0 +1,1 @@
+$('table td').last().addClass('highlight');

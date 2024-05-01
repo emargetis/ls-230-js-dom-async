@@ -1,0 +1,1 @@
+$('article').find('li').addClass('highlight')

@@ -1,0 +1,4 @@
+/*
+click event listener of the div element on the capture phase
+click event listener of the div element on the bubble phase
+*/

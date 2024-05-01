@@ -1,0 +1,1 @@
+$('li:contains("ac ante")').closest('li').addClass('highlight');

@@ -1,0 +1,1 @@
+$('table tr').filter((index) => index % 2 === 1).addClass('highlight');

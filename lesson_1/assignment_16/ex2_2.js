@@ -1,0 +1,1 @@
+document.querySelector('ul').classList.add('bulleted');
